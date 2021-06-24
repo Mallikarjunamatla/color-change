@@ -1,0 +1,18 @@
+body{
+    display: grid;
+    font-family: sans-serif;
+    
+}
+button{
+    margin-left: 50%;
+    margin-top: 100px;
+    padding: 50px;
+    font : 50px bold;
+    border-radius: 1000px;
+
+
+}
+p{
+    margin-left: 50%;
+    margin-top: 100px;
+}
